@@ -7,6 +7,4 @@
 ![Discord](https://user-images.githubusercontent.com/130410871/231149963-8ad4341f-29e5-4d31-a6a6-70a19b55cce8.svg)
 [![DiscordLogo](https://user-images.githubusercontent.com/130410871/231155232-00f30d69-2022-487b-a277-9f0fb33f73c9.svg)](https://discord.gg/qkg7hakn)
 
-
-
-
+**Come to GPC**
