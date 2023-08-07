@@ -6,5 +6,5 @@
 
 ![Discord](https://user-images.githubusercontent.com/130410871/231179581-10cfee00-b758-4a8b-b941-589a2e009d19.svg)
 
-[![DiscordLogo](https://user-images.githubusercontent.com/130410871/231182754-ac5c38c5-aec3-4a7b-a9a5-f5e0b9034e57.svg)](https://discord.gg/qkg7hakn)
+[![DiscordLogo](https://user-images.githubusercontent.com/130410871/231182754-ac5c38c5-aec3-4a7b-a9a5-f5e0b9034e57.svg)](https://discord.gg/BF32bjmQqP)
 
